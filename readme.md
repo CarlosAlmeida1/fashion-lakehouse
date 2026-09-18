@@ -12,7 +12,7 @@ O pipeline soluciona o desalinhamento entre a oferta dos grandes players de merc
 
 Abaixo está a representação visual dos fluxos de dados, componentes de nuvem e camadas de transformação do projeto:
 
-![Arquitetura da Plataforma de Inteligência de Estoque e Tendências](../docs/arquitetura/arquitetura_fashion_lakehouse.png)
+![Arquitetura da Plataforma de Inteligência de Estoque e Tendências](./docs/arquitetura/arquitetura_fashion_lakehouse.png)
 
 ## Detalhamento dos Componentes e Fluxo de Dados
 
