@@ -62,8 +62,8 @@ A arquitetura adota os conceitos de **Data Mesh** (dados divididos e tratados po
 ## Roadmap de Implementação
 
 - [x] Definição de arquitetura, ferramentas e desenho conceitual do pipeline.
-- [ ] Fase 1: Sanitização local dos dados de catálogo e rotina de upload automatizado para o Amazon S3 (`/raw`).
-- [ ] Fase 2: Configuração de Crawlers, catálogo de metadados no AWS Glue e execução do Glue Job para geração de Parquet (`/processed`).
+- [x] Fase 1: Sanitização local dos dados de catálogo e rotina de upload automatizado para o Amazon S3 (`/raw`).
+- [x] Fase 2: Configuração de Crawlers, catálogo de metadados no AWS Glue e execução do Glue Job para geração de Parquet (`/processed`).
 - [ ] Fase 3: Provisionamento do Amazon Redshift, criação do DDL dimensional e execução das rotinas de comando `COPY`.
 - [ ] Fase 4: Automação e orquestração do pipeline de ponta a ponta.
 - [ ] Fase 5: Integração com camada de visualização analítica (BI).
